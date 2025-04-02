@@ -39,7 +39,7 @@
    ```
 3. Ejecuta el siguiente comando para compilar y ejecutar el microservicio:
    ```bash
-   ./mvnw spring-boot:run
+   ./mvn spring-boot:run
    ```
 
 
